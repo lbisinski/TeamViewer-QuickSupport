@@ -1,1 +1,1 @@
-# allinone
+# TeamViewer QuickSupport
