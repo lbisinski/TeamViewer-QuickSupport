@@ -1,6 +1,10 @@
 #container{
-  background-color:black;
-  height:100%;
-  width:100%;	
-  colour:gray;
+height:100%;
+width:100%;	
+};
+
+#top{
+height:150px;
+background-color:black;
+colour:white;
 };
