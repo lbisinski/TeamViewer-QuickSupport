@@ -1,12 +1,17 @@
+<!DOCTYPE HTML>
 <html>
 <head>
-<link rel="stylesheet" href="style.css" type="text/css" />
+	<style>
+		#container
+		{
+			color:green;
+		};
+	</style>
 </head>
   <body>
-	<style>
-		<div id="container">
+
+	<div id="container">
 			TTTTTTTTTTTTTTTTTT
-		</div>
-	</style>
+	</div>
   </body>
 </html>
