@@ -1,9 +1,8 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	<style>
-		#container
-		{
+	<style type="text/css" >
+		#container{
 			color:green;
 		};
 	</style>
