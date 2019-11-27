@@ -6,5 +6,7 @@ width:100%;
 #top{
 height:150px;
 background-color:black;
-colour:white;
+font-family:OpenSans;
+font-color:white;
+text-align:center;
 };
